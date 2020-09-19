@@ -1,13 +1,13 @@
 SRC = unity/unity.c\
 src/dvr.c\
-te
+
 main.c
 
 INC = -Iunity\
 -Iinc\
 -Itest
 
-PROJECT_NAME = FACTORIAL.out
+PROJECT_NAME = DVR.out
 
 $(PROJECT_NAME): $(SRC)
 	gcc $(SRC) $(INC) -o $(PROJECT_NAME)
