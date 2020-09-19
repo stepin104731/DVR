@@ -1,5 +1,5 @@
-#include "test_factorial.h"
-#include "factorial.h"
+#include "test_dvr.h"
+#include "dvr.h"
 #include<stdio.h>
 #include<string.h>
 #define MAX 20
