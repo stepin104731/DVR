@@ -1,6 +1,6 @@
 SRC = unity/unity.c\
 src/dvr.c\
-
+./configure
 main.c
 
 INC = -Iunity\
