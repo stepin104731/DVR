@@ -19,3 +19,5 @@ doc:
 
 clean:
 	rm -rf $(PROJECT_NAME) documentation/html
+	 make all
+  shell: /bin/bash -e {0}
