@@ -1,12 +1,12 @@
 SRC = unity/unity.c\
-src/prime_number.c\
-test/test_prime_number.c
+src/dvr.c\
+test/test_dvr.c
 
 INC = -Iunity\
 -Iinc\
 -Itest
 
-PROJECT_NAME = PRIMENUMBER.out
+PROJECT_NAME = DVR.out
 
 # Output directory
 BUILD = build
